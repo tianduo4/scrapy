@@ -10,8 +10,8 @@ import java.io.InputStream;
 /**
  * 下载器线程
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 @Slf4j
 public class Downloader implements Runnable {

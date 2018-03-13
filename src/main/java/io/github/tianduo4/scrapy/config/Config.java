@@ -5,8 +5,8 @@ import lombok.ToString;
 /**
  * 爬虫配置
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 @ToString
 public class Config implements Cloneable {

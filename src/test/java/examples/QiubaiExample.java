@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
  * 糗事百科示例
  *
  * @author biezhi
- * @date 2018/1/15
+ * @date 2018/3/12
  */
 public class QiubaiExample {
 

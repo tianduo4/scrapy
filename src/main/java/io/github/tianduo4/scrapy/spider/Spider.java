@@ -18,8 +18,8 @@ import java.util.function.Consumer;
 /**
  * 爬虫基类
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 @Data
 public abstract class Spider {

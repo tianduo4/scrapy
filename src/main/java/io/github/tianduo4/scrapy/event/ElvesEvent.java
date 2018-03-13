@@ -3,8 +3,8 @@ package io.github.tianduo4.scrapy.event;
 /**
  * 事件枚举
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 public enum ElvesEvent {
 

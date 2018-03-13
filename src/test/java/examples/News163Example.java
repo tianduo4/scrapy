@@ -15,8 +15,8 @@ import java.util.stream.Collectors;
 /**
  * 网易新闻示例
  *
- * @author biezhi
- * @date 2018/1/15
+ * @author xushipeng
+ * @date 2018/3/12
  */
 public class News163Example {
 

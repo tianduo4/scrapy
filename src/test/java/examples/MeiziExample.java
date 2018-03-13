@@ -21,8 +21,8 @@ import java.util.stream.Collectors;
 /**
  * 妹子图示例
  *
- * @author biezhi
- * @date 2018/1/12
+ * @author xushipeng
+ * @date 2018/3/12
  */
 public class MeiziExample {
 

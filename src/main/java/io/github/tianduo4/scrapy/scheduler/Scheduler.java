@@ -11,8 +11,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 /**
  * 爬虫调度器
  *
- * @author biezhi
- * @date 2018/1/12
+ * @author xushipeng
+ * @date 2018/3/12
  */
 @Slf4j
 public class Scheduler {

@@ -8,8 +8,8 @@ import java.util.function.Consumer;
 /**
  * 事件管理器
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 public class EventManager {
 

@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * Request 请求
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 @Getter
 public class Request<T> {

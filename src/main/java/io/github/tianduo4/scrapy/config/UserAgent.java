@@ -3,8 +3,8 @@ package io.github.tianduo4.scrapy.config;
 /**
  * 浏览器UA常量
  *
- * @author biezhi
- * @date 2018/1/11
+ * @author xushipeng
+ * @date 2018/3/12
  */
 public interface UserAgent {
 
